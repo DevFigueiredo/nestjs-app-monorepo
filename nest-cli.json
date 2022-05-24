@@ -53,6 +53,15 @@
       "compilerOptions": {
         "tsConfigPath": "apps/ms_events_http/tsconfig.app.json"
       }
+    },
+    "ms_email_http": {
+      "type": "application",
+      "root": "apps/ms_email_http",
+      "entryFile": "main",
+      "sourceRoot": "apps/ms_email_http/src",
+      "compilerOptions": {
+        "tsConfigPath": "apps/ms_email_http/tsconfig.app.json"
+      }
     }
   }
 }
